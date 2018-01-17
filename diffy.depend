@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1516139637 source:c:\users\jamie\documents\c++\diffy\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<cstdlib>
+	<ctime>
+	<windows.h>
+
+1516049061 source:c:\users\jamie\documents\c++\diffy\resource.rc
+
