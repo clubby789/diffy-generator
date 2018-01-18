@@ -32,7 +32,8 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
-		<Unit filename="Hello.o" />
+		<Unit filename="diffy.cpp" />
+		<Unit filename="diffy.h" />
 		<Unit filename="main.cpp" />
 		<Unit filename="resource.rc">
 			<Option compilerVar="WINDRES" />
